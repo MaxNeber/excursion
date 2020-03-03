@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+.header h1{
+    font-size: 50px;
+    font-weight: normal;
+}
+
+a{
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+div video, img{
+    margin: 30px;
+}
+
+.content h1{
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.content h2{
+    font-size: 21px;
+    color: gray;
+}
+
+.footer{
+    text-align: right;
+    font-size: 21px;
+    color: gray;
+}
